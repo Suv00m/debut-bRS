@@ -1,6 +1,6 @@
 # debut-bRS
-book recommendation system, 
-internship project- iNeuron.ai. 
-Interface - web, 
-model- unsupervised, collaborative filtering 
-dataset - book_new   
+## book recommendation system
+internship project- **_iNeuron.ai_**
+Interface - **webapp**, 
+model- **unsupervised, collaborative filtering** 
+dataset - **book_new.csv**

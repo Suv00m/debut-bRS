@@ -20,11 +20,11 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 
 
-books = pd.read_csv("D:\internship\data\dataset\Books.csv")
+books = pd.read_csv("Books.csv")
 
-ratings = pd.read_csv("D:\internship\data\dataset\Ratings.csv")
+ratings = pd.read_csv("Ratings.csv")
 
-users = pd.read_csv("D:\\internship\\data\\dataset\\Users.csv")
+users = pd.read_csv("Users.csv")
 
 name_ratings = pd.merge(books, ratings, on='ISBN')
 

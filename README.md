@@ -61,7 +61,7 @@ The system works by analyzing a user's reading history and preferences and using
 
 The accuracy of the book recommendations depends on the quality and quantity of data available. The Book Recommender System uses both collaborative filtering and popularity-based filtering to generate recommendations, which can improve the accuracy of the recommendations. However, no recommendation system can guarantee 100% accuracy, and users should always use their own judgment when selecting books to read.
 
-##### How does the system handle new users with no reading history? 
+#### How does the system handle new users with no reading history? 
 
 For now, users can comment on their preference and their experience for future integration of the database to make it dynamic along with the users.
 
